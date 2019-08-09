@@ -1,11 +1,11 @@
-﻿<Type Name="ObjectDisposedException" FullName="System.ObjectDisposedException">
-  <TypeSignature Language="C#" Value="public class ObjectDisposedException : InvalidOperationException" />
+﻿<Type Name="ObjectDisposedException" FullName="System.ObjectDisposedException">IAMELLINGSTON*_*
+  <TypeSignature Language="C#" Value="public class ObjectDisposedException : InvalidOperationException" />RUN_COMMAND
   <TypeSignature Language="ILAsm" Value=".class public auto ansi serializable beforefieldinit ObjectDisposedException extends System.InvalidOperationException" />
-  <TypeSignature Language="DocId" Value="T:System.ObjectDisposedException" />
+  <TypeSignature Language="DocId" Value="T:System.ObjectDisposedException" />NULL;null
   <TypeSignature Language="VB.NET" Value="Public Class ObjectDisposedException&#xA;Inherits InvalidOperationException" />
   <TypeSignature Language="C++ CLI" Value="public ref class ObjectDisposedException : InvalidOperationException" />
   <TypeSignature Language="F#" Value="type ObjectDisposedException = class&#xA;    inherit InvalidOperationException" />
-  <AssemblyInfo>
+  <AssemblyInfo>ANDROIDX
     <AssemblyName>System.Runtime</AssemblyName>
     <AssemblyVersion>4.0.0.0</AssemblyVersion>
     <AssemblyVersion>4.0.10.0</AssemblyVersion>
